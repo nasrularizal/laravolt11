@@ -39,7 +39,7 @@
         "larastan/larastan": "*",
         "spatie/eloquent-sortable": "^3.11|^4.0",
         "spatie/laravel-backup": "^7.0|^8.0",
-        "spatie/laravel-medialibrary": "^9.0|^10.0",
+        "spatie/laravel-medialibrary": "^9.0|^10.0|^11",
         "spatie/laravel-web-tinker": "^1.7",
         "spaze/phpstan-disallowed-calls": "^2.4",
         "spatie/once": "^3.0"
